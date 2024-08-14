@@ -1,0 +1,48 @@
+h1{
+    color: chartreuse;
+    background-color: black;
+    padding: 60px;
+    text-align: center;
+}
+
+img{
+    height:250px ;
+    width:250px ;
+    margin-left: 0px;
+}
+.container{
+    justify-content: start;
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+
+body{
+    background-color: rgb(83, 85, 78);
+    background-image: url(galaxia123.jpg);background-repeat: repeat-z; background-size: 100%;
+}
+
+h2{
+    color: chartreuse;
+    background-color: black;
+}
+
+video{
+    height: 450px;
+    width: 500px;
+}
+
+p{
+    background-color: black;
+}
+
+table{
+    
+    background-color: black;
+    border-color: chartreuse;
+}
+
+.espaço{
+    text-align: center;
+    padding: 15px;
+}
